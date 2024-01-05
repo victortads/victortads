@@ -1,7 +1,5 @@
-
 ### Olá! Eu sou Víctor Gabriel ✌️
 # Segue abaixo um pouco sobre mim:
-
 
 <span>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victortads&show_icons=true&theme=tokyonight" />
@@ -28,4 +26,3 @@
 ## Contatos:
 
 [![LinKedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/víctor-gabriel-de-santana-893a2827b/)
-
